@@ -1,6 +1,6 @@
 # Pesquisa de Satisfação - Empresa TudoWeb
 
-NUMERO_ENTREVISTADOS = 10  # para validar - na entrega final mude para 50
+NUMERO_ENTREVISTADOS = 50
 
 quantidade_excelente = 0
 quantidade_ruim = 0
